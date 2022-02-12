@@ -84,3 +84,9 @@ body {
   flex-grow: 1;
   text-align: right;
 }
+.friend-list-item__none {
+  font-size: 14px;
+  line-height: 16px;
+  color: #21262d;
+  margin: 4px;
+}
